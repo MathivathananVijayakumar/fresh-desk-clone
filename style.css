@@ -1,0 +1,40 @@
+.add-ticket-name{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-pic{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-email{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-id{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-priority{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-status{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-created_at{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
+.add-ticket-updated_at{
+    margin: 5px;
+    background:rgb(231, 223, 231);
+    border-radius:10%;
+}
